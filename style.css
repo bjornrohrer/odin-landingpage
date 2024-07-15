@@ -123,6 +123,8 @@ button {
   margin: 100px;
   padding: 30px;
   border-radius: 5px;
+  display: flex;
+  flex-direction: column;
 }
 
 .action {
