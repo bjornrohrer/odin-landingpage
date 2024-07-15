@@ -90,3 +90,13 @@ button {
   display: inline-block;
   text-align: center;
 }
+
+.section-three {
+  background-color: #e5e7eb;
+}
+
+.quote {
+  font-size: 36px;
+  font-family: italic;
+  color: #1f2937;
+}
