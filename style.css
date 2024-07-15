@@ -60,3 +60,9 @@ button {
   top: 100px;
   left: 1000px;
 }
+
+.info {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
