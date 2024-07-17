@@ -153,3 +153,11 @@ button {
   height: 24px;
   margin-left: auto;
 }
+
+.footer {
+  background-color: #1f2937;
+  padding: 30px;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+}
