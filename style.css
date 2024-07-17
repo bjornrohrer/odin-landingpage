@@ -127,6 +127,12 @@ button {
   flex-direction: row;
 }
 
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
 .action {
   color: #f9faf8;
   font-size: 24px;
@@ -142,4 +148,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 110px;
+  height: 24px;
+  margin-left: auto;
 }
