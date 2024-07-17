@@ -119,6 +119,8 @@ button {
   justify-content: right;
 }
 
+/* Need help making this look more like the preview */
+
 .section-four {
   background-color: #3882f6;
   margin: 100px;
@@ -161,3 +163,5 @@ button {
   display: flex;
   justify-content: center;
 }
+
+/* need help removing the white lines to the left and right */
