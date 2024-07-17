@@ -124,7 +124,7 @@ button {
   padding: 30px;
   border-radius: 5px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .action {
